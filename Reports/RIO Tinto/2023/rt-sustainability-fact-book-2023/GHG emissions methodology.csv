@@ -1,0 +1,42 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
+,,,,,Sustainability Fact Book 2023,
+,,,,,,
+,,,,,,
+,GREENHOUSE GAS EMISSIONS METHODOLOGY STATEMENT,,,,,
+,Greenhouse gas (GHG) emissions,,,,,
+,"GHG emissions are the six groups of gases we report against as included in the Kyoto Protocol: carbon dioxide, hydrofluorocarbons, methane, nitrous oxide, perfluorinated carbon compounds and sulphur hexafluoride.
+Under our reporting guidelines, individual operations not expected to exceed 3,000 tonnes of carbon dioxide equivalent (t CO2e) emissions in any year over the next three years can be excluded from our data collection processes. Reporting trivial quantities of fuels and emissions can result in a significant workload.
+Operations can omit or estimate individual emission sources from their inventories subject to these rules:
+– For non-Australian operations: individual sources that can be excluded should be less than 1,000t CO2e. The total of these excluded sources should be less than 5% of the operation’s complete inventory.
+– For Australian operations: the Australian NGER Act 2007 requires all Scope 1 and Scope 2 emission sources to be included, but some incidental sources can be estimated. An incidental source is any source less than 3,000t CO2e of Scope 1 emissions and less than 3,000t CO2e of Scope 2 emissions for the facility. The total of these incidental sources must be less than 12,000t CO2e of Scope 1 emissions and less than 12,000t CO2e of Scope 2 emissions for the facility. The global warming potential (GWP) emission factors for all GHG are consistent with the IPCC Fifth Assessment Report (AR5 – 100 year).",,,,,
+,,,,,,
+,Scope 1 GHG emissions,,,,,
+,"Scope 1 emissions are direct GHG emissions from facilities fully or partially owned or controlled by Rio Tinto. They include fuel use, on-site electricity generation, anode and reductant use, process emissions, land management and livestock. This is one of the three scopes of GHG emissions for reporting purposes defined by the World Resources Institute (WRI) and World Business Council for Sustainable Development (WBCSD), Greenhouse Gas (GHG) Protocol: A Corporate Accounting and Reporting Standard (Revised Edition) (2015).
+Scope 1 emission factors are consistent with the Australian National Greenhouse and Energy Reporting (Measurement) Determination 2008 for Australian operations and for non-Australian operations from the Intergovernmental Panel on Climate Change (IPCC) Guidelines for National Greenhouse Gas Inventories (2006). Scope 1 emissions are presented on an equity (Rio Tinto share) basis and 100% managed basis.",,,,,
+,,,,,,
+,Scope 2 GHG emissions,,,,,
+,"In 2023, Rio Tinto reviewed all Scope 2 emission sources and transitioned to a dual Scope 2 reporting method. 
+Location-based method reflects the emissions grid intensity of the location which the operation is located and includes the percentage of renewables that make up the total unadjusted grid intensity. 
+Market-based method counts commercial decisions to purchase the unique rights to renewable energy as zero emissions and applies a residual mix factor (or similar) to the remaining MWh purchased. The residual mix factor is typically equivalent to the grid intensity with renewable attributes that have been sold removed from the factor.
+Scope 2 emissions are GHG emissions from the electricity, heat or steam brought in from third parties (indirect emissions). Scope 2 emission factors are consistent with the Australian National Greenhouse and Energy Reporting Measurement Determination 2008 for Australian operations location-based reporting. For non-Australian operations, where possible, factors are sourced from public grid level data or electricity retailers. 
+Scope 2 emissions are presented on an equity share basis and 100% managed basis. For market-based reporting, Scope 2 includes the use of renewable electricity certificates. ",,,,,
+,,,,,,
+,Scope 3 GHG emissions,,,,,
+,"Scope 3 emissions are indirect GHG emissions generated as a result of activities undertaken across the value chain, either upstream or downstream of our operations. To identify and calculate Scope 3 emission sources across our operations, we have used the World Resources Institute (WRI) and World Business Council for Sustainable Development (WBCSD), Greenhouse Gas (GHG) Protocol: A Corporate Accounting and Reporting Standard (Revised Edition) (2015), GHG Protocol Corporate Value Chain (Scope 3) Accounting and Reporting Standard (2013) and the Technical Guidance for Calculating Scope 3 Emissions (version 1.0). 
+We estimate the emissions from our customers' processing of iron ore, bauxite, alumina, titanium dioxide, salt and copper concentrate using a combination of internal emissions modelling, regional and industry level emissions factors and production and sales data. Third party shipping and transportation of our products to our customers, intercompany transport of products and transport of fuel and other supplies are also calculated and reported. Emissions associated with the manufacture and supply of purchased and capital goods are included in the Scope 3 inventory. 
+Scope 3 emissions deemed to be material at Group level are reported on an equity basis as part of our disclosures in the Annual Report, Climate Change Report and our submission to CDP.  Where there are significant changes to the calculation methodology of Scope 3 categories to improve the maturity and accuracy of reported emissions, an approximate equivalent to the historical reported numbers using the new methodology will be provided.",,,,,
+,,,,,,
+,Total GHG emissions,,,,,
+,"Total GHG emissions are Scope 1 emissions plus Scope 2 emissions minus net carbon credits retired from recognised sources in case of 100% managed basis; and Scope 1 emissions plus Scope 2 emissions in case of equity basis. From 2023, the market-based Scope 2 numbers are reported with the location-based Scope 2 emissions provided for comparability. 
+For more details on Scope 1, 2 and 3 reporting refer to the 2023 Addendum - Scope 1, 2 and 3 Emissions Calculation Methodology. ",,,,,
+,,,,,,
+,Energy Reporting,,,,,
+,"As part of our sustainability reporting, energy is reported in accordance with the Global Reporting Initiative (GRI). The energy tables include those on a 100% managed basis, location-based method and this includes total energy less export to others. This includes electricity and fuels energy sources.
+Additional energy tables on an equity (Rio Tinto share) basis have been added for stakeholder interest and transparency.",,,,,
+,,,,,,
+,Adjustments to our reported emissions,,,,,
+,"In specific circumstances we may apply appropriate adjustments to the 2018 baseline data. Acquisitions and divestments will result in a commensurate adjustment to the baseline to include (acquisition) or exclude (divestment) the relevant operation from the baseline. Permanent closure of assets will not result in any adjustment to the baseline. Similarly, we will not adjust the baseline if our global production increases from the expansion of existing operations or new projects, such as Winu or Simandou. These growth projects are expected to be developed in a manner that enables us to deliver against our absolute and intensity targets. The 2018 emissions was restated from published numbers in our Climate Change Report as a result of the following events:
+
+- Scope 2 methodology review and update to dual Scope 2 reporting (market-based and location-based). The baseline is set consistently using the market-based emission factors.
+- Our interest in the Mineracao Rio do Norte (MRN) bauxite mine increased from 12% to 22%. The baseline emissions have been updated to consistently reflect the new economic interest of 22%. 
+- Rio Tinto's 50% investment in Matalco aluminium recycling will be added into the 2024 reported baseline. ",,,,,

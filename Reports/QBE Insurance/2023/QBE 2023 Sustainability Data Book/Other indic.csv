@@ -1,0 +1,46 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24,Unnamed: 25,Unnamed: 26,Unnamed: 27,Unnamed: 28,Unnamed: 29,Unnamed: 30,Unnamed: 31,Unnamed: 32,Unnamed: 33,Unnamed: 34
+,,,,,,,,,,Annualisation factor,,,,,,,,,,,,,,,,,,,,,,,,
+,Other environmental indicators,,,,,,,,,4,4,,,,,,,,,,,,,,,,,,,,,,,
+,Other environmental indicators,Units,Mapped to Support,% Movement,FY 2022,FY 2021,QX 202X,,% Change from prior year,Annualised FY 2022,FY 2021,FY2020,2018,,,,,,,,,,,,Data Type,Units,Sum of Total Reporting Amount,Sum of Total CO2e(t),,,,Mapping,,
+,Stationary energy use,,,,,,,,,,,,,,,,,,,,,,,Road &Rail travel,Average Local Bus [pkm],pkm,388.0400000000001,0.04,,,,Average Local Bus [pkm],Road &Rail travel,Business travel
+Non-renewable electricity,Non-renewable electricity (pre-RECs),MWh,Electricity,-0.08,443.4185897999596,480.00749779994294,,,-0.08,443.4185897999596,480.00749779994294,771,35916.08283813742,,,,,,,,,,,Air Travel,Business flights [pkm],pkm,15787484.050000006,2717.1716,,,,Business flights [pkm],Air Travel,Business travel
+Renewable electricity,Renewable electricity,MWh,Offsets and GHG Reductions,-0.08,18513.30619882114,20199.0322274,,,-0.08,18513.30619882114,20199.0322274,22529.24686,0,,,,,,,,,,,Company Vehicles,Company Vehicles [km],km,17835671.990000006,4239.886800000002,,,,Company Vehicles [km],Company Vehicles,Company Vehicles
+,      - GreenPower purchased,MWh,Offsets and GHG Reductions,0.54,12035.690178072164,7808.649575100002,,,0.54,12035.690178072164,7808.649575100002,6534.24686,,,,,,,,,,,,Company Vehicles,Diesel [L] - Scope 1,L,120,0.3228,,,,Electricity - Green [kWh],Offsets and GHG Reductions,Don't include in the graph
+,      - RECs purchased,MWh,Offsets and GHG Reductions,,6477.616020748979,12390.382652299995,,,,6477.616020748979,12390.382652299995,15995,,,,,,,,,,,,Offsets and GHG Reductions,Electricity - Green [kWh],kWh,6534246.860000003,-4599.6062999999895,,,,Electricity [kWh],Electricity,Electricity
+Electricity use per FTE,Electricity use per FTE,MWh/FTE,,-0.08,1.4584003130117862,1.5909034046913784,,,-0.16,1.4584003130117862,1.7439922853600687,2.0541975279254476,2.9572992642971303,,,,,,,,,,,Electricity,Electricity [kWh],kWh,23300146.29999998,13770.331900000017,,,,"Hire Car & Taxi - pkm_x000D_
+","Hire Car & Taxi
+",Business travel
+Gas - direct,Gas - direct,GJ,Gas - Scope 1,0.38,22266.08712711955,16145.412800000002,,,0.38,22266.08712711955,16145.412800000002,18234.31,26231.36561894038,,,,,,,,,,,"Hire Car & Taxi
+","Hire Car & Taxi - pkm_x000D_
+",km,5062168.999999994,867.6562000000022,,,,Natural Gas [GJ],Gas - Scope 1,Gas
+Gas - indirect,Gas - indirect,GJ,Gas - Scope 2 heat,0.24,19987.1543,16082.642700000008,,,0.24,19987.1543,16082.642700000008,20000.150000000016,23446.45982762508,,,,,,,,,,,Gas - Scope 1,Natural Gas [GJ],GJ,18234.31,920.0722999999998,,,,Natural Gas [GJ] - Scope 3,Gas - Scope 3,Gas
+Gas use per FTE,Gas use per FTE,GJ/FTE,,0.31,3.2506744287421854,2.4794054222475257,,,0.2,3.2506744287421854,2.717992755517699,3.3708429209976476,4.0904292739020764,,,,,,,,,,,Gas - Scope 3,Natural Gas [GJ] - Scope 3,GJ,20000.150000000016,1021.5791000000006,,,,Paper Purchased,Paper Purchased,Paper
+Data centres - electricity,Externally hosted data centres - electricity usage,GJ,Electricity - Scope 3 Co-lo,0.09,8714.4768,7974.10239552,,,0.09,8714.4768,7974.10239552,0,,,,,,,,,,,,,,,,,,,,,,
+Data centres - non-renewable electricity,Externally hosted data centres - non-renewable electricity,GJ,,0.39,4014.2484000000004,2879.6003999999994,,,0.39,4014.2484000000004,2879.6003999999994,0,,,,,,,,,,,,,,,,,,,,,,
+Data centres - renewable electricity,Externally hosted data centres - renewable electricity,GJ,Electricity Green - Scope 3 Co-lo,-0.08,4700.2284,5094.5019955200005,,,-0.08,4700.2284,5094.5019955200005,0,,,,,,,,,,,,Paper Purchased,Paper Purchased,t,101.24999999999997,93.14020000000001,,,,"Paper Purchased_Carbon Neutral_x000D_
+",Paper Purchased,Paper
+WFH energy usage,Working From Home energy usage - electricity and gas,GJ,Electricity - Scope 3 WFH,-0.3,22549.51079928,32133.94200288,,,-0.3,22549.51079928,32133.94200288,26286.6050313117,DNR,,,,,,,,,,,Paper Purchased,"Paper Purchased_Carbon Neutral_x000D_
+",t,7.769999999999998,,,,,Personal Vehicles [km],"Hire Car & Taxi
+",Business travel
+,Employee and business travel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Employees commuting,Employees commuting,000 km,,1.51,37613,15007,,,1.51,37613,15006.718334882562,DNR,110499,,,,,,,,,,,"Hire Car & Taxi
+",Personal Vehicles [km],km,4344270.76,744.6081999999999,,,,Petrol Transport post-2004 [kL],Company Vehicles,Company Vehicles
+Hidden in reporting pack,Business travel including fleet travel,'000 km,,1.11,73338.78919370001,34797.60166259999,,,1.11,73338.78919370001,34797.60166259999,29393.6074899343,95775,,,,,,,,,,,Company Vehicles,Petrol Transport post-2004 [kL],kL,167.76,387.96860000000004,,,,Rail Travel - National Rail [pkm],Road &Rail travel,Business travel
+Air travel,Air travel,'000 km,Air Travel,5.45,36817.068400000004,5712.1633612,,,5.45,36817.068400000004,5712.1633612,15787,,,,,,,,,,,,Road &Rail travel,Rail Travel - National Rail [pkm],pkm,876768.8599999998,22.550000000000004,,,,Waste - Landfill [t] - S3,Waste,Waste
+Fleet vehicles,Fleet vehicles,000 km,Company Vehicles [km],0.11,20748.953,18635.383290299993,,,0.11,20748.953,18635.383290299993,3323.6074899342993,26584.99081483413,,,,,,,,,,,Waste to landfill,Waste - Landfill [t] - S3,t,789.9399999999997,672.6807999999987,,,,Waste - Organic - Food and Drink [t],Waste,Waste
+Road travel,Road travel,'000 km,"Hire Car & Taxi
+",0.37,13970.115793700003,10160.619270499998,,,0.37,13970.115793700003,10160.619270499998,9406,11623,,,,,,,,,,,Waste to landfill,Waste - Organic - Food and Drink [t],t,87.01999999999994,54.547700000000006,,,,Waste Recycled - Cardboard [t] Scope 3,Waste,Waste
+Rail and bus travel,Rail and bus travel,'000 km,Road &Rail travel,5.23,1802.652,289.4357406,,,5.23,1802.652,289.4357406,877,3101,,,,,,,,,,,Paper recycled,Waste Recycled - Cardboard [t] Scope 3,t,437.6399999999998,9.329999999999979,,,,Waste Recycled - Commingled [t] - Scope 3,Waste,Waste
+Business travel per FTE,Business travel per FTE,'000 km/FTE,,1.11,5.642183146542242,2.6770886702568792,,,0.92,5.642183146542242,2.934698596021016,3.87,11.29,,,,,,,,,,,Waste recycled,Waste Recycled - Commingled [t] - Scope 3,t,64.00999999999995,1.3632999999999982,,,,Waste Recycled - Electronic [t],Waste,Waste
+Office paper purchased,Office paper purchased,tonnes,Paper Purchased,0.4,195.36960020000004,139.50210000000004,,,0.4,195.36960020000004,139.50210000000004,109.01999999999997,338.64503,,,,,,,,,,,Waste recycled,Waste Recycled - Electronic [t],t,31.90000000000003,0.6812000000000002,,,,Water [kL] - scope 3,Water,Water
+Office paper purchased per FTE,Office paper purchased per FTE,kg/FTE,,0.2,15.03039629797743,10.73233422832217,,,0.28,15.03039629797743,11.7650814266317,10,27.88373950996309,,,,,,,,,,,Water,Water [kL] - scope 3,kL,102198.06999999999,107.5140000000001,,,,Diesel [L] - Scope 1,Company Vehicles,Company Vehicles
+Water use,Water use,kL,Water,0.6,83326.37498700779,51984.0434000001,,,0.6,83326.37498700779,51984.0434000001,102325.06999999999,178731.2622398299,,,,,,,,,,,,Grand Total,,73883385.68,21031.83840000003,,,,,,
+Water use per FTE,Water use per FTE,kL/FTE,,-0.56,6.410559456775716,3.999295554033997,,,0.46,6.410559456775716,4.384138328287224,9.021226868382307,14.716577882694214,,,,,,,,,,,,,,,,,,,,,
+,Waste and recycling,tonnes,,-0.01,390.0917999999999,394.92959999999994,,,-0.01,390.0917999999999,394.92959999999994,1410.5099999999995,2522.355870540023,,,,,,,,,,,,,,,,,,,,,
+Waste to landfill,Waste to landfill,tonnes,Waste to landfill,0.34,207.532,154.77889999999994,,,0.34,207.532,154.77889999999994,876.9599999999997,1536.4942986666667,,,,,,,,,,,,,,,,,,,,,
+Waste per FTE,Waste per FTE,kg/FTE,,-0.01,30.010986052022183,30.38317318418562,,,-0.1,30.010986052022183,33.306874246244924,124.35398979079051,207.68860551582338,,,,,,,,,,,,,,,,,,,,,
+Paper recycled,Paper recycled,tonnes,Paper recycled,-0.19,152.0167999999999,187.01499999999996,,,-0.19,152.0167999999999,187.01499999999996,437.6399999999998,843.9196933333335,,,,,,,,,,,,,,,,,,,,,
+Other recycled waste,Other recycled waste,tonnes,Waste recycled,-0.43,30.54300000000001,53.13570000000003,,,-0.43,30.54300000000001,53.13570000000003,95.91,141.9418785400224,,,,,,,,,,,,,,,,,,,,,
+Recycling rate,Recycling rate,%,,0.61,0.46799189319026946,0.6080848333475131,,,-0.23,0.46799189319026946,0.6080848333475131,0.38,39,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,FTE count,,,,12998.3,11857.3,11857.3,,,,11857.3,,,,,,,,,,,,,,,,,,,,,,,
