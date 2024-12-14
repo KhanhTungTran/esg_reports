@@ -1,0 +1,81 @@
+Sustainability Accounting Standards Board (SASB) Index,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14
+Sector,Topic,Accounting Metric,Category,Unit of Measure,Code,"Reference to Annual Report
+(unless otherwise stated)",Reference 1,Reference 2,Reference 3,,,,,
+COMMERCIAL BANKS,Data Security,"(1) Number of data breaches, (2) percentage involving personally identifiable information (PII), (3) number of account holders affected",Quantitative,"Number, Percentage (%)",FN-CB-230a.1,"Note: NAB is required to report notifiable data breaches to the Office of the Australian Information Commissioner (OAIC) when they occur. In 2023 NAB has not had data breaches involving personally identifiable information.
+
+- Technology, data and security (p43-46)
+- IT Security (p16 & 43)
+- Website: Privacy policy
+- Website: NAB Security",link,link,link,,,,,
+,,Description of approach to identifying and addressing data security risks,Discussion and Analysis,,FN-CB-230a.2,"- Technology, data and security (p43-46)",link,,,,,,,
+,Financial Inclusion & Capacity Building,(1) Number and (2) amount of loans outstanding qualified to programs designed to promote small business and community development,Quantitative,"Number, Reporting currency",FN-CB-240a.1,"- Sustainability approach (p21-25)
+- Customers (p26-29)
+- Helping our communities prosper (p47-54)
+- Sustainability Data Pack - Financial Health, Supply Chain, and Investment",link,,,,,,,
+,,(1) Number and (2) amount of past due and nonaccrual loans qualified to programs designed to promote small business and community development,Quantitative,"Number, Reporting currency",FN-CB-240a.2,"- Sustainability approach (p21-25)
+- Customers (p26-29)
+- Helping our communities prosper (p47-54)
+- Sustainability Data Pack - Financial Health",link,,,,,,,
+,,Number of no-cost retail checking accounts provided to previously unbanked or underbanked customers,Quantitative,Number,FN-CB-240a.3,- Sustainability Data Pack - Investment,link,,,,,,,
+,,"Number of participants in financial literacy initiatives for unbanked, underbanked, or underserved customers",Quantitative,Number,FN-CB-240a.4,"- Sustainability Data Pack - Training, Financial Health, and Investment",link,,,,,,,
+,"Incorporation of Environmental, Social, and Governance Factors in Credit Analysis","Commercial and industrial credit exposure, by industry",Quantitative,Reporting Currency,FN-CB-410a.1,- 2023 Pillar 3 report - Table 5.1.D Credit Risk Exposures by Industry,link,,,,,,,
+,,"Description of approach to incorporation of environmental, social, and governance (ESG) factors in credit analysis",Discussion and Analysis,,FN-CB-410a.2,"- Sustainability approach (p21-25)
+- Climate Report - Governance (p18-20), Risk Management (p21-29)",link,,,,,,,
+,Business Ethics,"Total amount of monetary losses as a result of legal proceedings associated with fraud, insider trading, anti-trust, anti-competitive behavior, market manipulation, malpractice, or other related financial industry laws or regulations",Quantitative,Reporting Currency,FN-CB-510a.1,- Note 31 Commitments and contingent liabilities (p233-237),link,,,,,,,
+,,Description of whistleblower policies and procedures,Discussion and Analysis,,FN-CB-510a.2,- Sustainability Data Pack - Culture,link,,,,,,,
+,Systemic Risk Management,"Global Systemically Important Bank (G-SIB) score, by category",Quantitative,Basis points (bps),FN-CB-550a.1,- Website: Regulatory disclosures,link,,,,,,,
+,,"Description of approach to incorporation of results of mandatory and voluntary stress tests into capital adequacy planning, long-term corporate strategy, and other business activities",Discussion and Analysis,,FN-CB-550a.2,"- Sustainability approach (p21-25)
+- Climate Report - Governance (p18-20), Risk Management (p21-29)",link,,,,,,,
+,,ACTIVITY METRIC,Category,UNIT OF MEASURE,CODE,,,,,,,,,
+,,(1) Number and (2) value of checking and savings accounts by segment: (a) personal and (b) small business,Quantitative,"Number, Reporting currency",FN-CB-000.A,- Management Discussion and Analysis - Section 3 - Divisional Review (p33 - 43),link,,,,,,,
+,,"(1) Number and (2) value of loans by segment: (a) personal, (b) small business, and (c) corporate",Quantitative,"Number, Reporting currency",FN-CB-000.B,- Management Discussion and Analysis - Section 3 - Divisional Review (p33 - 43),link,,,,,,,
+Sector,Topic,Accounting Metric,Category,Unit of Measure,Code,"Reference to Annual Report
+(unless otherwise stated)",Reference 1,Reference 2,Reference 3,,,,,
+MORTGAGE FINANCE,Lending Practices,"(1) Number and (2) value of residential mortgages of the following types: (a) Hybrid or Option Adjustable-rate Mortgages (ARM), (b) Prepayment Penalty, (c) Higher Rate, (d) Total, by FICO scores above or below 660",Quantitative,"Number, Reporting currency",FN-MF-270a.1,"Note: The Australian lending system does not use FICO scores to assess home loan applications.
+
+- Investor Presentation - Australian Housing Lending (p69)",link,,,,,,,
+,,"(1) Number and (2) value of (a) residential mortgage modifications, (b) foreclosures, and
+(c) short sales or deeds in lieu of foreclosure, by FICO scores above and below 660",Quantitative,"Number, Reporting currency",FN-MF-270a.2,"Note: The Australian lending system does not use FICO scores to assess home loan applications.
+
+- Investor Presentation - Australian Housing Lending (p69)",link,,,,,,,
+,,Total amount of monetary losses as a result of legal proceedings associated with communications to customers or remuneration of loan originators,Quantitative,Reporting Currency,FN-MF-270a.3,- Note 31 Commitments and contingent liabilities (p231-235),link,,,,,,,
+,,Description of remuneration structure of loan originators,Discussion and Analysis,,FN-MF-270a.4,- Annual Remuneration Disclosures,link,,,,,,,
+,"Discriminatory
+Lending","(1) Number, (2) value, and (3) weighted average Loan-to-Value (LTV) ratio of mortgages issued to (a) minority and (b) all other borrowers, by FICO scores above and below 660",Quantitative,"Number, Reporting currency, Percentage (%)",FN-MF-270b.1,"Note: The Australian lending system does not use FICO scores to assess home loan applications. NAB does not currently report the number of home loans, balances, or LVRs by race, ethnicity, or minority groups.",,,,,,,,
+,,Total amount of monetary losses as a result of legal proceedings associated with discriminatory mortgage lending,Quantitative,Reporting Currency,FN-MF-270b.2,"- Note 31 Commitments and contingent liabilities (p233-237)
+- Helping our communities prosper (p47-54)
+- Website: Human rights approach",link,,,,,,,
+,,Description of policies and procedures for ensuring non-discriminatory mortgage origination,Discussion and Analysis,,FN-MF-270b.3,- Website: Human rights approach,link,,,,,,,
+,Environmental Risk to Mortgaged Properties,(1) Number and (2) value of mortgage loans in 100-year flood zones,Quantitative,"Number, Reporting currency",FN-MF-450a.1,"- Environmental, Social and Governance (ESG) risk
+management (p51-53)
+- Climate report - Risk management (p22-25)",link,,,,,,,
+,,"(1) Total expected loss and (2) Loss Given Default (LGD) attributable to mortgage loan default and delinquency due to weather-related natural catastrophes, by geographic region",Quantitative,"Reporting currency, Percentage (%)",FN-MF-450a.2,"Environmental, Social and Governance (ESG) risk
+management (p51-53)
+Climate report - Risk management (p22-25)",link,,,,,,,
+,,Description of how climate change and other environmental risks are incorporated into mortgage origination and underwriting,Discussion and Analysis,,FN-MF-450a.3,"- Climate Report - Governance (p18-20), Risk Management (p21-29)",link,,,,,,,
+,,ACTIVITY METRIC,Category,UNIT OF MEASURE,CODE,,,,,,,,,
+,,(1) Number and (2) value of mortgages originated by category: (a) residential and (b) commercial,Quantitative,"Number, Reporting currency",FN-MF-000.A,- Management Discussion and Analysis - Section 3 - Divisional Review (p33 - 43),link,,,,,,,
+,,(1) Number and (2) value of mortgages purchased by category: (a) residential and (b) commercial,Quantitative,"Number, Reporting currency",FN-MF-000.B,- Management Discussion and Analysis - Section 3 - Divisional Review (p33 - 43),link,,,,,,,
+Sector,Topic,Accounting Metric,Category,Unit of Measure,Code,"Reference to Annual Report
+(unless otherwise stated)",Reference 1,Reference 2,Reference 3,,,,,
+CONSUMER FINANCE,Customer Privacy,Number of account holders whose information is used for secondary purposes,Quantitative,Number,FN-CF-220a.1,,,,,,,,,
+,,Total amount of monetary losses as a result of legal proceedings associated with customer privacy,Quantitative,Reporting Currency,FN-CF-220a.2,- Note 31 Commitments and contingent liabilities (p233-237),link,,,,,,,
+,Data Security,"(1) Number of data breaches, (2) percentage involving personally identifiable information (PII), (3) number of account holders affected",Quantitative,"Number, Percentage (%)",FN-CF-230a.1,"Note: NAB is required to report notifiable data breaches to the Office of the Australian Information Commissioner (OAIC) when they occur. In 2023 NAB has not had data breaches involving personally identifiable information.
+
+- Technology, data and security (p43-46)
+- IT Security (p16 & 43)
+- Website: Privacy policy
+- Website: NAB Security",link,link,link,,,,,
+,,Card-related fraud losses from (1) card-not present fraud and (2) card-present and other fraud,Quantitative,Reporting Currency,FN-CF-230a.2,,,,,,,,,
+,,Description of approach to identifying and addressing data security risks,Discussion and Analysis,,FN-CF-230a.3,"- Technology, data and security (p43-46)
+- IT Security (p16 & 43)
+- Website: Privacy policy
+- Website: NAB Security",link,link,link,,,,,
+,Selling Practices,Percentage of total remuneration for covered employees that is variable and linked to the amount of products and services sold,Quantitative,Percentage (%),FN-CF-270a.1,,,,,,,,,
+,,Approval rate for (1) credit and (2) pre-paid products for applicants with FICO scores above and below 660,Quantitative,Percentage (%),FN-CF-270a.2,Note: The Australian lending system does not use FICO scores to assess home loan applications.,,,,,,,,
+,,"(1) Average fees from add-on products, (2) average APR, (3) average age of accounts, (4) average number of trade lines, and (5) average annual fees for pre-paid products, for customers with FICO scores above and below 660",Quantitative,"Reporting currency, Percentage (%), Months, Number, Reporting currency",FN-CF-270a.3,,,,,,,,,
+,,"(1) Number of complaints filed with the Consumer Financial Protection Bureau (CFPB), (2) percentage with monetary or nonmonetary relief, (3) percentage disputed by consumer, (4) percentage that resulted in investigation by the CFPB",Quantitative,"Number, Percentage (%)",FN-CF-270a.4,,,,,,,,,
+,,Total amount of monetary losses as a result of legal proceedings associated with selling and servicing of products,Quantitative,Reporting currency,FN-CF-270a.5,- Note 31 Commitments and contingent liabilities (p233-237),link,,,,,,,
+,,ACTIVITY METRIC,Category,UNIT OF MEASURE,CODE,,,,,,,,,
+,,Number of unique consumers with an active (1) credit card account and (2) pre-paid debit card account,Quantitative,Number,FN-CF-000.A,,,,,,,,,
+,,Number of (1) credit card accounts and (2) pre-paid debit card accounts,Quantitative,Number,FN-CF-000.B,,,,,,,,,
