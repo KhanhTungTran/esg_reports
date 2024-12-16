@@ -1,1 +1,4 @@
 .DS_Store
+csvs/
+excels/
+get_github_urls.py
