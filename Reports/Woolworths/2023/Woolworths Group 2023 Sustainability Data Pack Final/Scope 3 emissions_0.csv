@@ -1,0 +1,37 @@
+Unnamed: 0,Unnamed: 0.1,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9
+0,,Scope 3 emissions,,,,,,,,
+1,,Planet goal 3,,,,,,,,
+3,,Scope 3 emissions by category,,,,,,,,
+7,,Scope 3 emissions by category (million tCO2e),,,,,,GRI 305-3,,
+9,,,,,,F21,F22,F23,,
+10,,1. Purchased goods and services,,,,,24.6,24.2,,ÃÂ Footnote 1
+11,,2. Capital goods,,,,,0.3,0.3,,ÃÂ Footnote 2
+12,,3. Fuel and energy-related activities not included in scope 1 or scope 2,,,,,0.2,0.2,,ÃÂ Footnote 3
+13,,4. Upstream transportation and distribution,,,,,0.3,0.3,,ÃÂ Footnote 4
+14,,5. Waste generated in operations,,,,,0.1,0.1,,ÃÂ Footnote 5
+15,,6. Business travel,,,,,<0.1,<0.1,,ÃÂ Footnote 6
+16,,7. Employee commuting,,,,,0.3,0.3,,ÃÂ Footnote 7
+17,,8. Upstream leased assets,,,,,0.4,0.3,,ÃÂ Footnote 8
+18,,9. Downstream transportation and distribution,,,,,<0.1,<0.1,,ÃÂ Footnote 9
+19,,10. Processing of sold products,,,,,Not applicable,Not applicable,,
+20,,11. Use of sold products,,,,,1.3,1.3,,ÃÂ Footnote 10
+21,,12. End-of-life treatment of sold products,,,,,2.4,2.6,,ÃÂ Footnote 11
+22,,13. Downstream leased assets,,,,,Not applicable,Not applicable,,
+23,,14. Franchises,,,,,<0.1,<0.1,,ÃÂ Footnote 12
+24,,15. Investments,,,,,<0.1,<0.1,,ÃÂ Footnote 13
+25,,Total,,,,,30,29.7,,
+28,,Footnotes,,,,,,,,
+30,,ÃÂ General note,F22 figures have been re-stated to reflect the improved data sources and methodologies used in F23.,,,,,,,
+31,,ÃÂ Footnote 1,"Embodied emissions related to the products we sell and services we use such as cleaning and IT. Calculated according to spend-based method, applying category specific emission factors. Includes all Group companies except PFD Foods, Quantium, healthylife and myDeal.",,,,,,,
+32,,ÃÂ Footnote 2,"Embodied emissions from new constructions, renewals, technology projects. Calculated according to spend-based method, applying category specific emission factors. Includes all Group companies.",,,,,,,
+33,,ÃÂ Footnote 3,Calculated according to supplier-specific method. Includes all Group companies.,,,,,,,
+34,,ÃÂ Footnote 4,"Emissions related to moving products from DCs to supermarkets. Calculated according to fuel-based method with consumption estimated from overall spend. Includes all Group companies except PFD Foods, Quantium, healthylife and myDeal.",,,,,,,
+35,,ÃÂ Footnote 5,Emissions related to waste from store and DC food losses. Calculated according to average-data method and adjusted for ACCUs issued to Woolworths from projects with the Emissions Reduction Fund. Includes all Group companies.,,,,,,,
+36,,ÃÂ Footnote 6,"Emissions related to corporate travel, including flights, hire vehicles and accommodation. Calculated according to distance-data method. Includes all Group companies except healthylife and myDeal.",,,,,,,
+37,,ÃÂ Footnote 7,Emissions related to all Group team member commuting. Calculated according to average-data method using New Zealand national statistics for commuting for 2014 (latest available). Includes all Group companies.,,,,,,,
+38,,ÃÂ Footnote 8,Woolworths' share of centralised services emissions from leasing space in retail centres. Calculated according to average-data method using state-based NABERS rating averages. Includes all Group companies.,,,,,,,
+39,,ÃÂ Footnote 9,Emissions related to trolley collection. Calculated according to average-data method. Includes all Group companies.,,,,,,,
+40,,ÃÂ Footnote 10,Emissions related to the use of products such as electronics. Calculated according to average-data method. Includes all Group companies.,,,,,,,
+41,,ÃÂ Footnote 11,Emissions related to the disposal / waste of the food products we sell. Calculated according to average-data method using CER emission factors. Includes all Group companies.,,,,,,,
+42,,ÃÂ Footnote 12,Emissions related to our franchise partnerships such as Metro60 / Ampol and Countdown franchise stores. Calculated according to average-data method using assumptions. Includes all Group companies.,,,,,,,
+43,,ÃÂ Footnote 13,Emissions of organisations in which we own a material share. Calculated according to average-data method using CER emission factors. Excludes investments related to W23.,,,,,,,

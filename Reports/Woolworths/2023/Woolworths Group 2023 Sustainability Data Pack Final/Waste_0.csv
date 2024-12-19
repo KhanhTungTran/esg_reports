@@ -1,0 +1,27 @@
+Unnamed: 0,Unnamed: 0.1,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9
+0,,Waste,,,,,,,,
+1,,Planet goal 2,,,,,,,,
+3,,Total waste,Waste by category,Waste intensity,,,,,,
+7,,Total waste (tonnes),,,,,,"GRI 306-3, 306-4, 306-5",,
+9,,,,,,F21,F22,F23,,
+10,,Total solid waste,,,,,Not available,454841,,ÃÂ Footnote 1
+11,,Total solid waste diverted from landfill,,,,,Not available,361870,,
+12,,Percentage of total solid waste diverted from landfill,,,,,Not available,0.8,,
+13,,Food waste diverted from landfill,,,,,Not available,50826,,
+14,,Percentage of food waste diverted from landfill,,,,,Not available,0.69,,
+17,,Waste by category (tonnes),,,,,,"GRI 306-3, 306-4, 306-5",,
+19,,,,,,F21,F22,F23,,
+20,,Food diverted to charity,,,,,15468,17163,,
+21,,Food diverted to farmers,,,,,Not available,17555,,ÃÂ Footnote 2
+22,,Food diverted to composting or energy,,,,,19226,16107,,
+23,,Carboard recycling,,,,,275718,270739,,ÃÂ Footnote 3
+24,,Plastic film recycling,,,,,9300,9145,,
+25,,Other non-food waste diverted from landfill,,,,,37484,31160,,
+28,,Waste intensity,,,,,,,,
+30,,,,,,F21,F22,F23,,
+31,,Waste intensity (kg/m2),,,,,Not available,23.4,,ÃÂ Footnote 2
+34,,Footnotes,,,,,,,,
+36,,ÃÂ Footnote 1,"Solid waste includes all food and non-food products, as well as grease traps, fat and bones, oils and pallets.",,,,,,,
+37,,ÃÂ Footnote 2,"Improved data for food diverted to farmers in F23 revealed that previously published figures (for F22) were inaccurate, and these have therefore been removed. As a result, overall waste intensity for F22 has also been removed.",,,,,,,
+38,,ÃÂ Footnote 3,F22 figure for cardboard recycling has been re-stated to reflect more up-to-date data from providers.,,,,,,,
+39,,ÃÂ Additional methodological notes,"For our Australian Food and New Zealand Food divisions, for which detailed site-specific waste diversion data was used, some adjustments were made to correct for suspected data entry errors. In all cases, these adjustments decreased the amount of food diverted from landfill, providing a conservative approach.\nDetailed food diversion data for the New Zealand Food division, available for the second half of F23, was used to extrapolate H1.\nEstimates of the proportion of food waste going to landfill were used for our Primary Connect division and Corporate Offices.",,,,,,,

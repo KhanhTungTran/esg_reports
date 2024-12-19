@@ -1,0 +1,45 @@
+Unnamed: 0,Unnamed: 0.1,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
+0,,,,,,Sustainability Fact Book 2023,
+3,,ENERGY,,,,,
+4,,"100% managed basis, location-based method",,,,,
+5,,Total energy use (PJ),2023.0,2022.0,2021.0,2020,2019.0
+6,,Renewable energy (PJ),156.0,146.0,148.0,153,156.0
+7,,Non-renewable energy (PJ),251.0,248.0,246.0,251,252.0
+8,,Total energy (PJ),406.0,395.0,394.0,404,408.0
+9,,"Energy reported on a 100% managed basis excludes export to third parties. The renewable energy is calculated based on location-based method in accordance with GRI, however, this does not include energy in the ""renewable energy"" category where we have purchased the rights to the energy attributes.",,,,,
+12,,Self-generated electricity (percentage),2023.0,2022.0,2021.0,2020,2019.0
+13,,Hydro,0.697,0.699,0.696,0.706,0.707
+14,,Natural gas,0.245,0.245,0.244,0.231,0.231
+15,,Diesel,0.044,0.043,0.046,0.05,0.05
+16,,Fuel oil,0.013,0.012,0.013,0.012,0.011
+17,,Other renewables,0.001,0.001,0.001,0.001,0.0
+18,,"Note: Due to rounding, the sum may not total 100%.",,,,,
+21,,"Equity basis, market-based method",,,,,
+22,,Total energy use (PJ),2023.0,,,,
+23,,Renewable energy purchased (PJ)1,14.0,,,,
+24,,Renewable energy generated (PJ)2,86.0,,,,
+25,,Non-renewable or grid energy purchased (PJ),139.0,,,,
+26,,Total energy (PJ),239.0,,,,
+27,,Energy reported on an equity basis includes market-based electricity.,,,,,
+28,,"1. ""Renewable energy purchased"" consists of enegy with zero emission sources due to contracts where we have the rights to the energy attributes (eg purchase and surrender of Renewable Energy Certificates [RECs]).",,,,,
+29,,"2. ""Renewable energy generated"" includes our equity share of generation of hydro power from Energy Electrique in Quebec, Kemano and Iron Ore Company of Canada as well as renewable power plants in the Pilbara region, Australia.\nSome of the renewable and non-renewable electricity included above is exported to third parties.",,,,,
+32,,"Electricity generation and use, equity basis - indicative table",,,,,
+33,,Total electricity generated and used (GWh),2023.0,,,,
+34,,Renewable electricity purchased (with contracted energy attributes)1,3804.0,,,,
+35,,Renewable electricity purchased (without contracted energy attributes)2,20270.0,,,,
+36,,Renewable electricity generated,23896.0,,,,
+37,,Electricity purchased from other energy sources,14843.0,,,,
+38,,Electricity generated from other energy sources,3608.0,,,,
+39,,Total electricity generated and used (GWh),66421.0,,,,
+40,,"This table provides further transparency over electricity sources, including commercially purchased attributes which enabled us to claim zero emissions. It is a mixture of market and location based methods. The data is on an equity basis and includes electricity generated and sold to third parties.",,,,,
+41,,"1. ""Renewable electricity purchased (with contracted energy attributes)"" is where we report zero Scope 2 emissions for the equivalent electricity purchased (in MWh). Under these circumstances, the renewable supply may or may not be connected to the site and follows the reporting energy market rules of the country or region.",,,,,
+42,,"2. Rio Tinto has entered into electricity supply contracts for operations with low emission or renewable electricity suppliers, in many cases before market-based reporting and renewable energy certificates existed from these suppliers. The 'renewable electricity purchased (without contracted energy attributes)' is indicative of the physical location of sites in relation to large renewable energy suppliers we are contracted to on physical supply including ISAL in Iceland, NZAS in New Zealand and Bell Bay in Tasmania, Australia. Under a market-based Scope 2 method these are not treated as zero emission sources and these are grid connected and not classified as direct supply.",,,,,
+45,,"100% managed basis, location-based method",,,,,
+46,,Group fuel energy excluding electricity (percentage),2023.0,2022.0,2021.0,2020,2019.0
+47,,Coal and petroleum products used as anodes,0.386,0.373,0.386,0.389,0.403
+48,,Natural gas,0.236,0.237,0.232,0.232,0.231
+49,,"Light liquid fuels, eg diesel",0.327,0.33,0.327,0.323,0.306
+50,,"Heavy liquid fuels, eg fuel oil",0.049,0.06,0.055,0.056,0.06
+51,,"Note: Due to rounding, the sum may not total 100%.",,,,,
+52,,Note: all data on a 100% managed basis.,,,,,
+54,,*Numbers restated from those originally published to ensure comparability over time.,,,,,

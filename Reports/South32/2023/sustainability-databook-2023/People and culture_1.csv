@@ -1,0 +1,63 @@
+Unnamed: 0,Unnamed: 0.1,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19
+81,,Mozambique,26.8,73.2,54.9,45.1,0,7.2,5.1,0.1,,,,,,,,,,
+82,,Singapore,53.8,46.2,15.4,69.2,15.4,15.6,17.4,4.6,,,,,,,,,,
+83,,South Africa,32.7,67.3,23.3,72.5,4.2,12.7,9,8,,,,,,,,,,
+84,,United Kingdom,100,0,0,100,0,7.4,8.2,10.6,,,,,,,,,,
+85,,United States,20,80,13.3,53.3,33.3,39.2,32.6,7.2,,,,,,,,,,
+86,,Total,29.3,70.7,27.8,60.3,11.9,14.7,11.7,7.2,,,,,,,,,,
+87,,The sum of the categories may vary to the total figure due to rounding.,,,,,,,,,,,,,,,,,,
+88,,(1) Hiring rates are calculated using the total count of employee hires for the financial year as the numerator and total number of employees averaged across the financial year as the denominator.,,,,,,,,,,,,,,,,,,
+90,,,Gender,,Age groups,,,FY23 Total \nturnover rate,FY22 Total \nturnover rate,FY21 Total \nturnover rate,,,,,,,,,,
+91,,Employee turnover per country(1),Women,Men,Under 30,30-50,Over 50,,,,,,,,,,,,,
+92,,Australia,20.3,79.651,14.2,55.4,30.4,10.8,11.74,7.1,,,,,,,,,,
+93,,Brazil,0,100,0,100,0,4.7,6.35,13.3,,,,,,,,,,
+94,,Canada,0,100,0,50,50,11.1,0,0,,,,,,,,,,
+95,,Chile,-,-,-,-,-,0,0,-,,,,,,,,,,
+96,,Colombia,25.9,74.1,9.3,48.1,42.6,5.6,5.18,5.8,,,,,,,,,,
+97,,Mozambique,20,80,6.7,42.2,51.1,4.5,4.27,5.4,,,,,,,,,,
+98,,Singapore,66.7,33.3,0,100,0,10.8,21.1,11.1,,,,,,,,,,
+99,,South Africa,23.3,76.7,12.5,71.7,15.8,4.9,5.35,5,,,,,,,,,,
+100,,United Kingdom,0,100,0,100,0,7.4,0,0,,,,,,,,,,
+101,,United States,33.3,66.7,8.3,66.7,25,10.4,24.98,16.2,,,,,,,,,,
+102,,Total,21.8,78.2,12.8,57.5,29.7,8.1,8.78,6.3,,,,,,,,,,
+104,,"(1) Turnover rates are calculated using the total count of applicable employee exits for the financial year as the numerator and the total number of employees averaged across the financial year as the denominator. The numerator includes employee exits that were voluntary or due to dismissal, retirement or death in service. These figures exclude employee departures as a result of redundancy or end of contract.\n",,,,,,,,,,,,,,,,,,
+106,,,Gender #,,Gender %,,,,,,,,,,,,,,,
+107,,Career entry pipelines by gender distribution,Women,Men,Women,Men,FY23 Total #,FY22 Total #,FY21 Total #,,,,,,,,,,,
+108,,"Apprentices, Trainees and Learners(1)",157,183,46.2,53.8,340,251,293,,,,,,,,,,,
+109,,Vacation students(2),34,47,42,58,81,76,44,,,,,,,,,,,
+110,,Graduates(1),35,55,38.9,61.1,90,67,35,,,,,,,,,,,
+111,,Total,226,285,44.2,55.8,511,394,372,,,,,,,,,,,
+113,,(1) Data measured as at 30 June 2023.\n(2) Data measured throughout the financial year. \n,,,,,,,,,,,,,,,,,,
+114,,,FY23,,,,,,,,,FY22,,,,,,,,
+115,,,Primary(5),,,Secondary(6),,,FY23 Total,,,Primary(5),,,Secondary(6),,,Total,,
+116,,Parental leave profile(1),Employees,Women,Men,Employees,Women,Men,Employees,Women,Men,Employees,Women,Men,Employees,Women,Men,Employees,Women,Men
+117,,Employees that took parental leave,179,150,29,243,1,242,422,151,271,181,158,23,240,2,238,421,160,261
+118,,Due to return(2),114,93,21,233,1,232,347,94,253,108,91,17,229,2,227,337,93,244
+119,,Returned to work(3),113,92,21,232,1,231,345,93,252,99,82,17,229,2,227,328,84,244
+120,,Returned and retained(4),-,-,-,-,-,-,-,-,-,92,79,13,214,2,212,306,81,225
+121,,Return rate (%),99.1,98.9,100,99.6,100,99.6,99.4,89.9,99.6,91.7,90.1,100,100,100,100,97.3,90.3,100
+122,,Retention rate (%),-,-,-,-,-,-,-,-,-,92.9,96.3,76.5,93.5,100,93.4,93.3,96.4,92.2
+124,,"(1) Refer to the 'Benefits provided to employees by significant locations of operation' table below for detail on parental leave entitlement. \n(2) Employees that have utilised parental leave and have a return to work date during the reporting period.\n(3) Employees that returned to work in the reporting period after parental leave ended.\n(4) Employees that returned to work after parental leave ended that were still employed 12 months after their return to work.\n(5) A primary caregiver is the parent who assumes the principal role for having primary responsibilities for providing care and support to the child following the birth of the child.\n(6) A secondary caregiver is the legally recognised partner, spouse or de facto spouse of the primary caregiver, who does not have primary caregiving responsibilities for the child.\n",,,,,,,,,,,,,,,,,,
+126,,,Australia,,,Colombia,,,Mozambique,,,Singapore,,,South Africa,,,United States,,
+127,,Benefits provided to employees by significant locations of operation(1),Full-time,Part-Time,Temporary,Full-time,Part-Time,Temporary,Full-time,Part-Time,Temporary,Full-time,Part-Time,Temporary,Full-time,Part-Time,Temporary,Full-time,Part-Time,Temporary
+128,,Medical Insurance,ÃÂ»,ÃÂ»,ÃÂ»,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ»,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ»,ÃÂ¼,ÃÂ¼,ÃÂ¼
+129,,Life and Disability Insurance(2),ÃÂ»,ÃÂ»,ÃÂ»,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ»,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ»,ÃÂ¼,ÃÂ¼,ÃÂ¼
+130,,Parental Leave,ÃÂ¼,ÃÂ¼,ÃÂ»,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ»,ÃÂ¼,ÃÂ¼,ÃÂ»,ÃÂ¼,ÃÂ¼,ÃÂ»,ÃÂ¼,ÃÂ¼,ÃÂ»
+131,,Retirement / Pension(3),ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼
+132,,Stock ownership - AllShare,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼,ÃÂ¼
+134,,"(1) Where an employee benefit is provided to a smaller cohort of employees and not to the majority, we have stated the benefit as 'not provided'.\n(2) In the United States, the insurer requires employees to work more than 30 hours to provide cover.\n(3) For Singapore, we have included contributions to the Central Provident Fund as Retirement provision.\n",,,,,,,,,,,,,,,,,,
+136,,Employee performance discussion in FY23(1),Overall (%),Women (%),Men (%),,,,,,,,,,,,,,,
+137,,Executives(2) and senior management,100,100,100,,,,,,,,,,,,,,,
+138,,Management,97,94.8,98.1,,,,,,,,,,,,,,,
+139,,Supervisory / professional/ operational support,49.2,64.2,45.5,,,,,,,,,,,,,,,
+141,,"(1) Data reflects employees as at 30 June 2023 as the denominator, and the total employees that have at least one performance review record in our core HR system for performance review records as the numerator. Performance review records for the majority of employees covered by an enterprise bargaining agreement are not recorded in the core HR system and therefore this percentage is predominately reflective of our workforce on individual agreements. The total percentage of all employees who have completed at least one performance review is 50.5 percent (4,865 eligible employees).\n(2) Executive figures exclude key management personnel.",,,,,,,,,,,,,,,,,,
+143,,Employee perception (Your Voice) survey results(1),FY23,FY22,,,,,,,,,,,,,,,,
+144,,Percentage of employees who completed the survey,78.2,70,,,,,,,,,,,,,,,,
+146,,(1) Read more about our Your Voice survey in our 2023 Sustainable Development Report (People and Culture material topic).,,,,,,,,,,,,,,,,,,
+148,,Workplace relations,,,,,,,,,,,,,,,,,,
+150,,,FY23,,,FY22 % Collective agreements,FY21 % Collective agreements,,,,,,,,,,,,,
+151,,Collective bargaining agreements,# Individual agreements,# Collective agreements,% Collective agreements,,,,,,,,,,,,,,,
+152,,Total employees covered by collective bargaining agreements and individual agreements(1),4623,4966,51.8,52.11,52.3,,,,,,,,,,,,,
+154,,(1) Total excludes 27 international assignees.,,,,,,,,,,,,,,,,,,
+156,,Employee-related work stoppages due to employee disputes(1),FY23,FY22,FY21,,,,,,,,,,,,,,,
+157,,Employee-related work stoppages due to employee disputes,-,-,-,,,,,,,,,,,,,,,

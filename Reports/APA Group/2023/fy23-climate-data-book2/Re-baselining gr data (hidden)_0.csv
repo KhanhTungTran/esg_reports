@@ -1,0 +1,36 @@
+Unnamed: 0,Unnamed: 0.1,Unnamed: 1,Unnamed: 2
+2,,(Hidden) Re-baselining graph data,
+4,,Gas infrastructure,
+5,,Chart Label,Value
+6,,FY21 base year emissions \n(unadjusted),567404
+7,,Scope 1 \nNGER method change for \nnatural gas storage \nfugitive emissions,36056.7
+8,,Scope 1\nOrbost divestment,-43948
+9,,Scope 1 \nhistorical reporting \nerror associated with \nfuel gas emissions at \nMoomba compressor \nstation,6528
+10,,Scope 1 \nNGER calculation change \nfor gas distribution \nfugitive emissions,-13691.563138
+11,,Scope 2 \nOrbost divestment,-92
+12,,FY21 base year emissions \n(adjusted),552257.136862
+14,,Power generation infrastructure,
+15,,Chart Label,Value
+16,,FY21 base year emissions \n(unadjusted),873221
+17,,No adjustments,0
+18,,FY21 base year emissions \n(adjusted),873221
+20,,Chart Label,Value
+21,,FY21 base year electricity generated \n(unadjusted),3031642.292376
+22,,No adjustments,0
+23,,FY21 base year electricity generated \n(adjusted),3031642.292376
+25,,Electricity transmission infrastructure,
+26,,Chart Label,Value
+27,,FY21 base year emissions \n(unadjusted),71145
+28,,Scope 1 \nBasslink acquisition,3.755964
+29,,Scope 2\nLine loss due to \nBasslink acquisition,70297.805423
+30,,Scope 2\nGrid electricity due to \nBasslink acquisition,1286.446739
+31,,FY21 base year emissions \n(adjusted),142733.008125
+33,,Methane,
+34,,Chart Label,Value
+35,,FY21 base year\nmethane emissions \n(unadjusted),8088.015354
+36,,NGER method change for \nnatural gas storage \nfugitive emissions,1287
+37,,Orbost divestment,-54.428571
+38,,Historical reporting\nerror associated with\nfuel gas emissions at\nMoomba compressor\nstation,0.452411
+39,,NGER calculation change\nfor gas distribution \nfugitive emissions,-488.060635
+40,,Basslink acquisition,0.000191
+41,,FY21 base year \nmethane emissions \n(adjusted),8832.978749

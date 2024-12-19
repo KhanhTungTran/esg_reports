@@ -1,0 +1,39 @@
+Unnamed: 0,Unnamed: 0.1,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9
+0,,SASB Indicators,,,,,,,,
+2,,Material topics and accounting metrics,Unit of measure,Code,Response 2021,Response 2022,Response 2023,,Location,Page number
+3,,Activity Metrics,,,,,,,,
+4,,"Number of customers by category: (1) municipal, (2) commercial, (3) industrial, (4) residential, and (5) other",Number,IF-WM-000.A,(1) 278,(1) 263,(1) 237,,Customers tab in ESG Databook\n,
+5,,,,,"(2) & (3) 138,999","(2) & (3) 151,784","(2) & (3) 148,562",,,
+6,,,,,(4) 0,(4) 0,(4) 0,,,
+7,,,,,(5) 0,"(5) 10,328","(5) 16,257",,,
+8,,Vehicle fleet size,Number,IF-WM-000.B,3305,3417,3506,,Operations snapshot\n\n,pg. 10
+9,,,,,Vehicle fleet in this activity metric is defined as heavy vehicle cab chassis type Ã¢ÂÂ GVM >4.5T.,,,,,
+10,,"Number of: (1) landfills, (2) transfer stations, (3) recycling centers, (4) composting centers, (5) incinerators, and (6) all other facilities",Number,IF-WM-000.C,(1)ÃÂ ÃÂ ÃÂ ÃÂ Ã 15,(1)ÃÂ ÃÂ ÃÂ ÃÂ Ã 18,(1) 17,,Operations snapshot,pg. 10
+11,,,,,(2)ÃÂ ÃÂ ÃÂ ÃÂ Ã 83,(2)ÃÂ ÃÂ ÃÂ ÃÂ Ã 107,(2) 105,,,
+12,,,,,(3)ÃÂ ÃÂ ÃÂ ÃÂ Ã 48,(3)ÃÂ ÃÂ ÃÂ ÃÂ Ã 53,(3) 50,,,
+13,,,,,(4)ÃÂ ÃÂ ÃÂ ÃÂ Ã 2,(4)ÃÂ ÃÂ ÃÂ ÃÂ Ã 5,(4) 5,,,
+14,,,,,(5)ÃÂ ÃÂ ÃÂ ÃÂ Ã 2,(5)ÃÂ ÃÂ ÃÂ ÃÂ Ã 2,(5) 2,,,
+15,,,,,(6)ÃÂ ÃÂ ÃÂ ÃÂ Ã 133,(6) 95,(6) 138,,,
+16,,"Total amount of materials managed, by customer category: (1) municipal, (2) commercial, (3) industrial, (4) residential, and (5) other",Metric tonnes (t),IF-WM-000.D,Cleanaway's current systems do not support disclosure of total waste managed (tonnes) by customer category with the necessary level of completeness and accuracy.\n\nWe have reported on volumes of recovered waste by various categories within the report. (See Resource Recovery & Recycling tab.),,,,Resource recovery snapshot\nResource recovery & recycling tab of ESG Databook,pg. 14
+17,,Greenhouse Gas Emissions,,,,,,,For commentary in our 2023 Sustainability report:,
+18,,,,,,,,,See Ã¢ÂÂClimate changeÃ¢ÂÂ,pg. 48
+19,,,,,,,,,See Ã¢ÂÂ1.5ÃÂ°C ambition',pg. 44
+20,,"(1) Gross global Scope 1 emissions, percentage covered under (2) emissions-limiting regulations, and (3) emissions- reporting regulations","Metric kilotonnes (kt) COÃ¢ÂÂ-e, Percentage (%)",IF-WM-110a.1,(1)ÃÂ ÃÂ ÃÂ ÃÂ Ã 860 ktCO2-e,"(1)ÃÂ ÃÂ ÃÂ ÃÂ Ã 1,062 ktCO2-e","(1) 1,131 ktCO2-e",,Carbon snapshot\n1.5ÃÂ°C ambition\nGreenhouse gas emissions tab of ESG Databook,pg. 15\npg.44
+21,,,,,(2)ÃÂ ÃÂ ÃÂ ÃÂ Ã 0%,(2)ÃÂ ÃÂ ÃÂ ÃÂ Ã 12%,(2)ÃÂ ÃÂ ÃÂ ÃÂ ÃÂ 19%,,,
+22,,,,,(3)ÃÂ ÃÂ ÃÂ ÃÂ Ã 100%,(3)ÃÂ ÃÂ ÃÂ ÃÂ Ã 100ÃÂ %,(3) 100%,,,
+23,,,,,,Includes six month contribution from the 18 December 2021 acquisition of Suez assets in NSW.,Includes 10 months contribution from the 31 August 2022 acquisition of GRL assets in NSW.,,,
+24,,,,,Calculated using the NGERS Determination 2008 which is based on the GHG Protocol Corporate Accounting and Reporting Standard.,,,,,
+25,,"(1) Total landfill gas generated, (2) percentage flared, (3) percentage used for energy","Million British Thermal Units (MMBtu), Percentage (%)",IF-WM-110a.2,"(1)ÃÂ ÃÂ ÃÂ ÃÂ Ã 2,988,582","(1)ÃÂ ÃÂ ÃÂ ÃÂ Ã 4,280,394","(1) 5,953,032",,Carbon snapshot\n1.5ÃÂ°C ambition\nGreenhouse gas emissions tab of ESG Databook,pg. 15 \npg. 44
+26,,,,,(2)ÃÂ ÃÂ ÃÂ ÃÂ Ã 8.7%,(2)ÃÂ ÃÂ ÃÂ ÃÂ Ã 9.4%,(2) 18.4%,,,
+27,,,,,(3)ÃÂ ÃÂ ÃÂ ÃÂ Ã 47.0%,(3)ÃÂ ÃÂ ÃÂ ÃÂ Ã 50.6%,(3) 49.5%,,,
+28,,,,,,Includes six month contribution from the December 2021 acquisition of Suez assets in NSW.,Includes 10 months contribution from the 31 August 2022 acquisition of GRL assets in NSW.,,,
+29,,"Discussion of long-term and short-term strategy or plan to manage Scope 1 and lifecycle emissions, emissions reduction targets, and an analysis of performance against those targets",,IF-WM-110a.3,Greenhouse gas emissions from landfill operations are our largest source of Scope 1 emissions. Section 3 of the FY21 Sustainability Report outlines our approach to managing Scope 1 emissions and establishing reduction targets.,"Formal reduction targets for methane and carbon dioxide emissions established, along with management and mitigation strategies.\nRefer to the ""Low-carbon"" section of the 2022 Sustainability Report.","Formal reduction targets for methane and carbon dioxide emissions established, along with management and mitigation strategies.\nRefer to the ""1.5 degree pathway"" section of the 2023 Sustainability Report.",,1.5ÃÂ°C ambition\nGreenhouse gas emissions tab of ESG Databook,pg. 44-47\n
+30,,Fleet Fuel Management,,,,,,,For commentary in our 2023 Sustainability report:,
+31,,,,,,,,,See Ã¢ÂÂ1.5ÃÂ°C ambition',pg. 47
+32,,"(1) Fleet fuel consumed, (2) percentage natural gas, (3) percentage renewable","Gigajoules (GJ), Percentage (%)",IF-WM-110b.1,"(1) 2,768,819","(1)ÃÂ ÃÂ ÃÂ ÃÂ Ã 2,827,073","(1) 2,882,160",,,
+33,,,,,(2) 0%,(2)ÃÂ ÃÂ ÃÂ ÃÂ Ã 0%,(2)ÃÂ ÃÂ ÃÂ ÃÂ Ã 0%,,,
+34,,,,,(3) 0%,(3)ÃÂ ÃÂ ÃÂ ÃÂ Ã 0%,(3)ÃÂ ÃÂ ÃÂ ÃÂ Ã 0%,,,
+35,,,,,,,Includes large vehicles used for waste collection and transfer. i.e. Diesel powered vehicles. Includes owner driver fuel. Excludes contractor diesel used for site construction.,,,
+36,,Percentage of alternative fuel vehicles in fleet,Percentage (%),IF-WM-110b.2,0.0009,0.001,0.0009,,,
+37,,Air Quality,,,,,,,For commentary in our 2023 Sustainability report:,
+38,,,,,,,,,See Ã¢ÂÂCommunity impact managementÃ¢ÂÂ,pg.60

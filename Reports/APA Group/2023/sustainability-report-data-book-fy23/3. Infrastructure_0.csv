@@ -1,0 +1,42 @@
+Unnamed: 0,Unnamed: 0.1,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10
+2,,3. Infrastructure,,,,,,,,,
+4,,Infrastructure,,,,,,,,,
+5,,Year-end 30 June,GRI,SASB,UoM,FY23,FY22,FY21,FY20,FY19,FY18
+7,,Installed power generation capacityÃÂ¹,,,,,,,,,
+8,,Total gas generation capacity,,,MW,442,442,440,418,418,373
+9,,Diamantina Power Station,,,MW,242,242,242,242,242,242
+10,,Leichardt Power Station,,,MW,60,60,60,60,60,60
+11,,Daandine Power Station,,,MW,30,30,30,30,30,30
+12,,X41ÃÂ²,,,MW,41,41,41,41,41,41
+13,,Gruyere Power StationÃÂ²,,,MW,47,47 3,45,45,45,-
+14,,Thompson Power Station,,,MW,22,22,22,-,-,-
+15,,Total solar generation capacity,,RR-ST-000.B,MW,250,162,149.3,149.3,148,20
+16,,Emu Downs Solar Farm,,RR-ST-000.B\nRR-ST-000.C,MW,20,20,20,20,20,20
+17,,Badgingarra Solar Farm,,RR-ST-000.B\nRR-ST-000.C,MW,19,19,19.3,19.3,18,0
+18,,Darling Downs Solar Farm,,RR-ST-000.B\nRR-ST-000.C,MW,110,110,110,110,110,0
+19,,Gruyere Solar FarmÃÂ²,,,MW,13,13,-,-,-,-
+20,,Dugald River Solar Farm,,,MW,88,-,-,-,-,-
+21,,Total wind generation capacity,,,MW,342,342,342,342,342,212
+22,,North Brown Hill Wind FarmÃÂ²,,,MW,132,132,132,132,132,132
+23,,Emu Downs Wind Farm,,,MW,80,80,80,80,80,80
+24,,Badgingarra Wind Farm,,,MW,130,130,130,130,130,0
+25,,Grand total installed power generation capacity,,,MW,1034,946,931.3,909.3,908,605
+27,,% installed power generation capacity,,,,,,,,,
+28,,Gas power generation portfolio share,,,%,43,46.723044,47.245785,46,46,62
+29,,Solar power generation portfolio share,,RR-ST-000.B,%,24,17.124736,16.031354,16,16,3
+30,,Wind power generation portfolio share,,,%,33,36.15222,36.722861,38,38,35
+31,,Total renewable power generation portfolio share,,,%,57,53.276956,52.754215,54,54,38
+33,,Installed Battery Capacity,,,,,,,,,
+34,,Gruyere Battery,,,MW / MWh,4 / 4,4 / 4,,,,
+36,,Energy infrastructure,,,,,,,,,
+37,,Total electricity transmission4,,IF-EU-000.B,MW,3603061,1365883,863367,913591.04,730974.41,781066.15
+38,,Total natural gas delivered,,EM-MD-000.A\nIF-GU-000.B,GJ,1199286014.410233,1225597874,1268629682,1326531681.630819,1251911955.775954,1161114256.008
+39,,Gas transmission pipelines,,EM-MD-000.A\nIF-GU-000.B,GJ,1087114103,1115136219,1156494146,1211956581.269999,1139325576.587,1045907512.008
+40,,Gas distribution pipelines,,EM-MD-000.A\nIF-GU-000.B,GJ,112171911.410233,110461655,112135536,114575100.36082,112586379.188953,115206744
+43,,1 Installed Power Generation Capacities are the official name plate generation capacities (as built) for power generation assets.,,,,,,,,,
+44,,"2 For the purposes of emissions and energy reporting, APA does not have operational control of X41, Gruyere Power Station, Gruyere Solar Farm and North Brown Hill Wind Farm.",,,,,,,,,
+45,,"3 The FY22 gas generation capacity for the Gruyere Solar Farm has been restated in FY23 due to the installation of a new engine in FY22 as part of staged expansion, omitted in previous year's reporting.",,,,,,,,,
+46,,4Total electricity transmission for FY23 includes Basslink interconnector.,,,,,,,,,
+48,,Asset Integrity,,,,,,,,,
+49,,Year-end 30 June,GRI,SASB,UoM,FY23,FY22,FY21,,,
+51,,% complete of annual integrity inspection program,,EM-MD-540a.2\nIF-GU-540a.3,%,100,100,100,,,

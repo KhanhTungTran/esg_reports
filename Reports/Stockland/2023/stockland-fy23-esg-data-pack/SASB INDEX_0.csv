@@ -1,0 +1,27 @@
+Unnamed: 0,H,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7
+0,,SASB INDEX,,,,,,
+2,,StocklandÃ¢ÂÂs ESG reporting has been prepared in accordance with the Sustainability Accounting Standards Board (SASB). This index relates to our FY23 ESG reporting and provides a guide on where information can be found as it relates to SASB reporting requirements.,,,,,,
+4,,Disclosure Topic,Code,Metric,Category,Unit of Measure,Location,Comment
+5,,Accounting Metrics,,,,,,
+6,,Energy Management,IF-RE-130a.1,"Energy consumption data coverage as a percentage of total floor area, by property subsector",Quantitative,Percentage (%) by floor area,Energy Consumption,
+7,,,IF-RE-130a.2,"(1) Total energy consumed by portfolio area with data coverage, (2) percentage grid electricity, and (3) percentage renewable, by property subsector",Quantitative,"Gigajoules (GJ), \nPercentage (%)",Energy Consumption,
+8,,,IF-RE-130a.3,"Like-for-like percentage change in energy consumption for the portfolio area with data coverage, by property subsector",Quantitative,Percentage (%),Energy Consumption,
+9,,,IF-RE-130a.4,"Percentage of eligible portfolio that (1) has an energy rating and (2) is certified to ENERGY STAR, by property subsector",Quantitative,Percentage (%) by floor area,Asset Ratings,Partially reported. Stockland does not operate in a market that uses ENERGY STAR ratings. The energy rating schemes we use are listed in the Asset Ratings and Certification chapter of our Environmental Management Approach. Our current energy ratings are listed in the Asset Ratings section of our Consolidated Data Pack.
+10,,,,,,,Environmental Management Approach (Asset Ratings and Certification),
+11,,,IF-RE-130a.5,Description of how building energy management considerations are integrated into property investment analysis and operational strategy,Discussion and Analysis,,Environmental Management Approach,"Partially reported. We explain how building energy management considerations support our strategic priorities related to climate, carbon and energy in our Environmental Management Approach."
+12,,Water Management,IF-RE-140a.1,"Water withdrawal data coverage as a percentage of (1) total floor area and (2) floor area in regions with High or Extremely High Baseline Water Stress, by property subsector",Quantitative,Percentage (%) by floor area,,Not reported.
+13,,,IF-RE-140a.2,"(1) Total water withdrawn by portfolio area with data coverage and (2) percentage in regions with High or Extremely High Baseline Water Stress, by property subsector",Quantitative,"Thousand cubic meters (m3),\nPercentage (%)",Water,Partially reported. Stockland reports on total water consumption by portfolio area in kilolitres (kL).
+14,,,IF-RE-140a.3,"Like-for-like percentage change in water withdrawn for portfolio area with data coverage, by property subsector",Quantitative,Percentage (%),Water,
+15,,,IF-RE-140a.4,Description of water management risks and discussion of strategies and practices to mitigate those risks,Discussion and Analysis,,Annual Report,
+16,,,,,,,"Environmental Management Approach (Climate Resilience, Water Management & Quality)",
+17,,Management of Tenant Sustainability Impacts,IF-RE-410a.1,"(1) Percentage of new leases that contain a cost recovery clause for resource efficiency related capital improvements and (2) associated leased floor area, by property subsector",Quantitative,"Percentage (%) by floor area, Square feet (ftÃÂ²)",,Not reported. The benefits of resource efficiency related capital improvements are shared with Stockland's tenants through billings.
+18,,,IF-RE-410a.2,Percentage of tenants that are separately metered or submetered for (1) grid electricity consumption,Quantitative,Percentage (%) by floor area,Energy Consumption,
+19,,,,"Percentage of tenants that are separately metered or submetered for (2) water withdrawals, by property subsector",Quantitative,Percentage (%) by floor area,,Not reported.
+20,,,IF-RE-410a.3,"Discussion of approach to measuring, incentivizing, and improving sustainability impacts of tenants",Discussion and Analysis,,Annual Report,We use mandatory design requirements and other uptake schemes to enable our Masterplanned Communities residents to benefit from the savings associated with renewable energy generation and other sustainability measures.
+21,,Climate Change Adaptation,IF-RE-410a.4,"Area of properties located in 100-year flood zones, by property subsector",Quantitative,Square feet (ft2),,"Not reported. Our assessment of flood risk is high-level, using mapping based on long-term climate predictions. For more information, refer to the Climate Resilience and Water Management & Quality chapters in our Environmental Management Approach."
+22,,,IF-RE-410a.5,"Description of climate change risk exposure analysis, degree of systematic portfolio exposure, and strategies for mitigating risks",Discussion and Analysis,,Annual Report (TCFD),
+24,,Activity Metrics,,,,,,
+25,,,IF-RE-000.A,"Number of assets, by property subsector",Quantitative,Number,Annual Report,
+26,,,IF-RE-000.B,"Leasable floor area, by property subsector",Quantitative,Square feet (ft2),Annual Report,Partially reported. Only reported for Commercial Property portfolio. Our Communities portfolio is based on number of lots and not leasable floor area.
+27,,,IF-RE-000.C,"Percentage of indirectly managed assets, by property subsector",Quantitative,Percentage (%) by floor area,Annual Report,
+28,,,IF-RE-000.D,"Average occupancy rate, by property subsector",Quantitative,Percentage (%),Annual Report,

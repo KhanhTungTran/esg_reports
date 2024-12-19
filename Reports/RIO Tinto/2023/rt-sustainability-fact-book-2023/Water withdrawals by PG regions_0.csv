@@ -1,0 +1,42 @@
+Unnamed: 0,Unnamed: 0.1,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9
+0,,,,,,,,,Sustainability Fact Book 2023,
+3,,WATER WITHDRAWALS BY PG REGION,,,,,,,,
+4,,"Operational withdrawals 2023 - by product group, region and source (in GL)",,,,,,,,
+6,,Product group,Region,Total,Surface water,Groundwater,Marine,Municipal,Third party,Entrained in ore
+8,,Aluminium,,,,,,,,
+9,,Atlantic operations,Canada,24,20.02,0.48,0.37,2.44,0.62,0.35
+10,,,Europe,11,0,10.41,0,0.17,0,0
+11,,Pacific operations,Australia,179,22.37,20.44,117.54,9.46,0,8.85
+12,,,New Zealand,1,0,0.65,0,0,0,0
+13,,Total,,214,42,32,118,12,1,9
+15,,Copper,,,,,,,,
+16,,Copper,Asia,17,0,16.83,0,0,0,0
+17,,,Australia,0,0,0.06,0,0,0,0
+18,,,Africa,0,0,0,0,0,0,0
+19,,,United States,41,14.39,26.13,0,0.11,0.05,0.37
+20,,,South America,0,0.01,0,0,0,0,0
+21,,Total,,58,14,43,0,0,0,0
+23,,Minerals,,,,,,,,
+24,,Borates & Lithium,Europe,0,0.44,0,0,0.01,0,0
+25,,,South America,0.02,0,0.02,0,0,0,0
+26,,,United States,3,0,1.59,0,1.21,0,0
+27,,Diamonds,Canada,4,1.26,2.31,0,0,0,0.21
+28,,Iron & Titanium,Africa,37,25.79,6.8,0,1.64,0,2.35
+29,,,Canada,50,49.69,0,0,0.37,0,0.04
+30,,,China,0,0,0,0,0,0,0
+31,,Iron Ore,Canada,188,185.24,0,0,1.56,0,0.86
+32,,Total,,281,262,11,0,5,0,3
+34,,Iron Ore,,,,,,,,
+35,,Iron Ore,Australia,158,0.14,92.73,0,4,17.89,43.06
+36,,Salt,Australia,429,3.34,2.24,423.07,0.1,0,0
+37,,Total,,587,3,95,423,4,18,43
+39,,Other,,,,,,,,
+40,,Commercial,Not applicable,10,0,0,10.24,0,0,0
+41,,Closure,Australia,20,18.8,0.73,0,0,0,0
+42,,Exploration,Various,0,0.01,0.02,0,0.01,0,0
+43,,Total,,30,19,1,10,0,0,0
+45,,"Definition of operational withdrawals, other managed water, total discharges, consumption, recycled/reused, change in storage and water quality are as per the Water Reporting: Good Practice Guide, 2nd Edition (ICMM, 2021).",,,,,,,,
+46,,"Refer to Appendix A of the ICMM water reporting guide for equivalency with other reporting standards, including those from the Minerals Council of Australia and Global Reporting Initiative.",,,,,,,,
+47,,The sum of the categories may be slightly different to the Rio Tinto total due to rounding.,,,,,,,,
+48,,Aggregated totals are the sum of data for all assets within the reporting group. No adjustments have been applied to discount water that moves between assets within the same reporting group. Some totals may therefore be conservatively stated.,,,,,,,,
+49,,Water use associated with hydropower assets not included in above totals.,,,,,,,,

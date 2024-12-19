@@ -1,0 +1,57 @@
+Unnamed: 0,Home,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10
+3,,Group Summary,See pages 28-32 in the FY23 Annual Report for more detail,,,,,,,,
+5,,,Change from prior year,,FY23,FY22,FY21,FY20,FY19,,
+6,,GROUP WORKFORCE,,,,,,,,,
+7,,Headcount,q,-0.006619,12457,12540,12377,11796,11126,,
+8,,Part-time employment,q,-0.049151,0.13349923737657543,0.1404,0.146,0.155,0.17,,
+9,,Full Time Equivalent (FTE),q,-0.004168,11597.460000000066,11646,11477,10882,10196,,
+10,,Staff Turnover,p,0.015412,0.17363539813430565,0.171,0.13,0.11,0.15,,
+11,,Absenteeism,p,0.123972,0.05057871891540511,0.045,0.037,0.037,0.041,,
+12,,Male : Female salary ratio (average) (AUD $) (General Employees),q,-0.013782,1.124288967763919,1.14,1.14,1.15,1.16,,
+13,,Women in the workforce,p,0.005325,0.6031949907682428,0.6,0.59,0.58,0.58,,
+14,,Women in senior management positions,p,0.02108,0.4492753623188406,0.44,0.43,0.41,0.37,,
+15,,Women in executive positions,p,0.111,0.44439999999999996,0.4,0.44,0.33,0.22,,
+16,,Women on the Board1,q,-0.259259,0.2,0.27,0.4,0.4,0.4,,
+17,,Lost Time Injury Frequency Rate (LTIFR),p,0.17716,0.8593266084570531,0.73,1.1,1.23,1.01,,
+19,,GROUP COMMUNITY,,,,,,,,,COMMENTARY
+20,,Total Community Investment (AUD $ million),q,-0.342747,9.990251227707208,15.2,13.4,20.4,10.4,,FY22 investment was elevated due to extra support we provided to communities through our NRMA COVID-19 Relief Program and NRMA HELP package.
+21,,Total Volunteered hours,p,2.365906,9289.9001,2760,2389,5482,5244,,"Increase driven by IAG Resilience Day in which over 3,000 IAG employees volunteered across 140 events to deliver community resilience actions."
+24,,GROUP GREENHOUSE GAS (GHG) EMISSIONS (TONNES CO2e),,,,,,,,,COMMENTARY
+25,,Scope 1 GHG Emissions,p,0.153655,5617.143784700001,4869,5601,6751,8357,,Driven by the increase in fuel consumption and the opening of Repairhub sites in New Zealand.
+26,,Scope 2 GHG Emissions,q,-0.107637,9728.544199999998,10902,12458,14562,18100,,"Primarily the result of lower emissions factors for Australian states (notably QLD, NSW, and VIC)."
+27,,Total Scope 1 & 2 Emissions,q,-0.026968,15345.687984699998,15771,18059,21313,26457,,
+28,,Scope 3 GHG Emissions,p,0.213514,10761.438900000001,8868,4552,11606,21721,,"Increase in business travel, notably air travel, with COVID-19-related restrictions no longer in place in FY23."
+29,,Total Group GHG Emissions,p,0.059542,26107.1268847,24640,22611,32920,48177,,
+31,,Carbon Offset Balance,,,-26107,-24640,-22611,-32920,-48177,,See 'Carbon offsets' tab for details of offset purchases and remaining balance as at 30 Jun 2023.
+33,,Key Performance Indicators,,,,,,,,,
+34,,GHG Emissions (tCO2e / FTE),p,0.080578,2.290824779755865,2.12,1.97,3.03,4.72,,
+35,,GHG Emission scope 1 & 2 (tCO2e / FTE),q,-0.009897,1.346539680640027,1.36,1.57,1.96,2.59,,
+55,,Scope 12,,,,,,,,,
+56,,Fleet vehicles,p,0.097242,4821.283,4394,5293,6497,8072,,Increased fuel usage as there were no COVID-19 related restrictions in place in FY23.
+57,,Building refrigerants,q,-0.006542,207.6326847,209,196,172,204,,"No material change in the number, or capacity, of chillers at IAG sites."
+58,,Natural gas / Stationary Liquefied Petroleum Gas (LPG),p,1.211384,588.2280999999999,266,111,82,80,,Increase driven by stationary LPG usage with the opening of additional Repairhub sites in New Zealand.
+60,,Scope 23,,,,,,,,,
+61,,Electricity,q,-0.107637,9728.544199999998,10902,12458,14562,18100,,Reduction in Australian state emissions factors sourced from NGER (National Greenhouse and Energy Reporting) as state grids steadily decarbonise.
+63,,"Scope 34,5",,,,,,,,,
+64,,1. Purchased goods and services,q,-0.616389,797.1428,2078,2248,1173,1928,,"Reduction driven by a lower, up to date print paper emissions factor. Previous factor had not been updated since publication in 2013."
+65,,2. Capital goods,,,N/R,N/R,N/R,N/R,N/R,,
+66,,3. Fuel-and-energy-related activities (not included in Scope 1 or 2),p,1.039819,2217.283,1087,1384,1497,1871,,Driven by transmission & distribution losses: emissions factor increased in FY23 in line with an increase in the use of imported fuel in the region.
+67,,4. Upstream transportation and distribution,,,N/R,N/R,N/R,N/R,N/R,,
+68,,5. Waste generated in operations,p,0.614289,582.7585000000004,361,353,596,796,,Higher waste volumes driven by the opening of Repairhub sites (higher waste relative to office-based sites) and an increase in office occupancy.
+69,,6. Business travel,p,2.037419,4300.9857,1416,566,8340,17125,,Material increase in air travel (though still roughly half the pre-COVID-19 levels) with COVID-related restrictions no longer in place in FY23.
+70,,7. Employee commuting [includes WFH]6,q,-0.270691,2863.2689,3926,N/R,N/R,N/R,,Reduction in WFH emissions driven by lower electricity emissions factors and a methodology update to account for employee annual leave.
+71,,8. Upstream leased assets,,,N/R,N/R,N/R,N/R,N/R,,
+72,,9. Downstream transportation and distribution,,,N/R,N/R,N/R,N/R,N/R,,
+73,,10. Processing of sold products,,,N/R,N/R,N/R,N/R,N/R,,
+74,,11. Use of sold products,,,N/R,N/R,N/R,N/R,N/R,,
+75,,12. End of life treatment of sold products,,,N/R,N/R,N/R,N/R,N/R,,
+76,,13. Downstream leased assets,,,N/R,N/R,N/R,N/R,N/R,,
+77,,14. Franchises,,,N/R,N/R,N/R,N/R,N/R,,
+78,,15. Investments,,,N/R,N/R,N/R,N/R,N/R,,
+83,,Footnotes to data,,,,,,,,,
+84,,"1. A female Director - Wendy Thorpe - was appointed on 23 March 2023, effective 1 July 2023. The percentage of women on the Board at 21 August 2023 is 27%.",,,,,,,,,
+85,,2. Scope 1: direct emissions from owned and controlled sources.,,,,,,,,,
+86,,"3. Scope 2: indirect emissions from the generation of purchased energy. We use a location-based approach, which reflects the average emissions intensity of the grids on which our energy consumption occurs.",,,,,,,,,
+87,,"4. Scope 3: indirect emissions that occur upstream and downstream of our business. IAG includes the following scope 3 emission sources within the boundary of reporting: business travel, waste to landfill, paper, staff working from home, and transmission & distribution (T&D) losses (which includes T&D losses from electricity, natural gas, stationary LPG, and company vehicle fuel sources).",,,,,,,,,
+88,,5. Measured Scope 3 emissions categorisation informed by the Greenhouse Gas Protocol.,,,,,,,,,
+89,,6. Working from home (WFH) emissions added to the scope of our measured Scope 3 emissions in FY22.,,,,,,,,,

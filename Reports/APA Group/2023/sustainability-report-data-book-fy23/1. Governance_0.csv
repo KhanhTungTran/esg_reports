@@ -1,0 +1,22 @@
+Unnamed: 0,Unnamed: 0.1,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11
+0,,,,`,,,,,,,,
+2,,1. Governance,,,,,,,,,,
+4,,Compliance,,,,,,,,,,
+5,,Year-end 30 June,GRI,SASB,UoM,FY23,FY22,FY21,FY20,FY19,FY18,FY17
+7,,Process safety incidents,,,,,,,,,,
+8,,Total Tier 1 incidentsÃÂ¹,,IF-EU-550a.1,count,3,1,1,1,1,0,-
+9,,Total Tier 2 incidentsÃÂ²,,IF-EU-550a.1,count,4,1,2,2,1,5,-
+10,,Grand total process safety incidents,,IF-EU-550a.1,count,7,2,3,3,2,5,-
+12,,Environment incidents,,,,,,,,,,
+13,,Total environmental regulatory notifiable incidents,,EM-MD-540a.1,count,18,4,9,4,4,2,4
+14,,Reportable water incidents,303-4,IF-EU-140a.2,count,3,0,2,0,0,0,0
+15,,Reportable spill incidents,,EM-MD-160a.4 & RR-ST-150a.2,count,1,0,3,0,0,1,2
+17,,IT / OT Incidents,,,,,,,,,,
+18,,Total priority 1 cybersecurity incidentsÃÂ³,,,count,0,0,0,0,0,0,0
+20,,Monetary lossesÃ¢ÂÂ´,,,,,,,,,,
+21,,Environmental,307-1,EM-MD-520a.1,AUD,34461,0,8261,0,0,0,30000
+22,,Safety,,,AUD,2000,3600,0,0,3000,0,0
+25,,1 Tier 1 incident defined as a major release of harmful substances that may cause a major accident such as natural gas. Release quantities is >500kg per hour.,,,,,,,,,,
+26,,2 Tier 2 incident is defined as a significant release of harmful substances that may cause a major accident such as natural gas. Release quantities is >50kg per hour but less than Tier 1 quantities.,,,,,,,,,,
+27,,3 Priority 1 cybersecurity Incidents defined as any incident featuring high attack sophistication and/or targeting systems with high cybersecurity criticality.,,,,,,,,,,
+28,,4 Monetary losses are the total of $AUD paid in relation to Environmental and Safety penalty notices received from regulatory bodies in all jurisdictions.,,,,,,,,,,
